@@ -1,0 +1,5 @@
+{
+  "name": "SaaS Inactive Account Manager",
+  "description": "A dashboard to identify and manage inactive user accounts across various enterprise SaaS solutions like Microsoft 365, Google Workspace, Slack, and more. Provides insights, reporting, and deactivation capabilities to optimize license usage and enhance security.",
+  "requestFramePermissions": []
+}

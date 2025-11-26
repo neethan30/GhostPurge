@@ -1,0 +1,21 @@
+# Unfinished Admin Panel Requirements
+
+This file tracks the suggested features for the admin panel that are pending implementation.
+
+---
+
+### Feature 3: Application & Tenant Settings
+
+These features allow the client to make the application feel like their own and set global rules.
+
+*   **Branding:** Allow an admin to upload their company logo and set a primary theme color. This simple feature dramatically improves the user experience and makes the tool feel integrated.
+*   **Data Retention Policies:** Configure how long audit logs and user activity data are kept. For example, "Delete audit logs older than 1 year." This is important for data management and compliance with regulations like GDPR.
+*   **Notification Templates:** The "Email Services" tab could be expanded to allow admins to view and customize the text of automated emails sent by the system (e.g., password reset, user deactivation warnings).
+
+---
+
+### Feature 4: System Health & Monitoring
+
+This provides visibility into the application's operational status.
+
+*   **API Connection Health:** A status page that shows the health of every connection configured in the main "Settings" tab. It could display the last successful data sync time and flag any connections that are failing with an error message. This helps admins proactively identify and fix integration issues.
